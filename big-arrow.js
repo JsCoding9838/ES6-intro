@@ -1,3 +1,4 @@
+// how to create array function
 const add = (num1, num2) => num1 + num2;
 const sum = add(22, 90);
 
@@ -14,7 +15,7 @@ const value     = fiveTimes(17);
 
 const getName = () => 'Brandon Sam';
 const name    = getName();
-console.log(name);
+// console.log(name);
 
 
 const doMath = (x, y) => {
